@@ -1,2 +1,2 @@
 # music-interpreter
-Estimates the pitch of audio-recording wing using auto-correlation and FFT.
+Estimates the pitch of audio-recording using auto-correlation and FFT.
